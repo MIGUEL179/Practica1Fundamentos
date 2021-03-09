@@ -1,8 +1,0 @@
-Nombre: Miguel Angel Escobar Hernández
-Edad: 22 años
-Juegos Actuales: FIFA 20
-Juegos favoritos: GTA V
-Carrera: Ingeniería Petrolera
-Especialidad: -
-Materia: Fundamentos de Programación
-Semestre: Tercero
